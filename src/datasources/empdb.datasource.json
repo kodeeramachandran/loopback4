@@ -1,0 +1,6 @@
+{
+  "name": "empdb",
+  "connector": "memory",
+  "localStorage": "",
+  "file": "./data/empdb.json"
+}
